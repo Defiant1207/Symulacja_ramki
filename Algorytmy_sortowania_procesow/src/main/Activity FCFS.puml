@@ -1,0 +1,17 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:generate processes;
+:sort by first come;
+:do precceses;
+:give the average waiting time;
+:give the average processing time;
+
+
+stop
+
+
+
+
+@enduml
